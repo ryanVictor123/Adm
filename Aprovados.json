@@ -1,17 +1,44 @@
 {
   "owners": [
-    "bonitaored"
+    {
+      "nome": "bonitaored",
+      "tempo": "permanente"
+    }
   ],
   "staff": [
-    "ruanrey06",
-    "ZORINHO05",
-    "nel_rin87836",
-    "kallelgstz"
+    {
+      "nome": "ruanrey06",
+      "tempo": "permanente"
+    },
+    {
+      "nome": "ZORINHO05",
+      "tempo": "permanente"
+    },
+    {
+      "nome": "nel_rin87836",
+      "tempo": "permanente"
+    },
+    {
+      "nome": "kallelgstz",
+      "tempo": "permanente"
+    }
   ],
   "aprovados": [
-    "Slk_naosouerivaldo",
-    "julio222y",
-    "ww1_19005",
-    "LuhhxRp"
+    {
+      "nome": "Slk_naosouerivaldo",
+      "tempo": "permanente"
+    },
+    {
+      "nome": "julio222y",
+      "tempo": "permanente"
+    },
+    {
+      "nome": "ww1_19005",
+      "tempo": "permanente"
+    },
+    {
+      "nome": "LuhhxRp",
+      "tempo": "permanente"
+    }
   ]
 }
